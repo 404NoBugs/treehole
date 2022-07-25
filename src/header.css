@@ -1,0 +1,10 @@
+@import '~antd/dist/antd.css';
+
+.Header{
+    display: flex;
+    justify-content: center;
+}
+h1{
+
+    color: white;
+}
